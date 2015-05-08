@@ -1,0 +1,233 @@
+
+AngularJS learning
+
+Single Page Application Overview [SPA]
+
+	Desktop experience
+		maintain history
+		view changes in main page [fast]
+			navigation happens with routes
+		
+	[]Alternately --> Use knockout.js to bind data in views]
+
+	Angular is a full features SPA framework
+
+	Data-binding, MVC, Routing, Testing, jqLite, Templates, History, Factories
+	
+	ViewModel, Controllers, Views, Directives, Services, Dependency Injection, Validation
+	
+AngularJS Hello <your name>
+	new html5 index.html file
+	get Angular file from web, into js folder
+	reference it in html file, before </body> tag
+	change opening <html> to <html ng-app>
+	see index.html for code
+
+Lecture 11: Key Players in AngularJS
+07:11
+Lecture 12: AngularJS Documentation
+02:53
+Lecture 13: Summary
+00:44
+Quiz 1: Module 1 Quiz
+10 questions
+Section 2 - Views, Directives and Filters
+Lecture 14: Module Materials and Code
+24 pages
+Lecture 15: Introduction
+01:46
+Lecture 16: Data Binding Overview
+05:25
+Lecture 17: Directives and Expressions
+06:23
+Lecture 18: Directives and Expressions in Action
+07:52
+Lecture 19: Additional Directives
+05:53
+Lecture 20: Iterating Over Data
+01:41
+Lecture 21: ng-repeat in Action
+05:21
+Lecture 22: Sorting and Formatting Data
+05:11
+Lecture 23: Formatting Data with Filters
+05:25
+Lecture 24: Sorting and Filtering Data with Filters
+03:56
+Lecture 25: Dynamic Sorting with the orderBy Filter
+03:17
+Lecture 26: Summary
+00:40
+Quiz 2: Module 2 Quiz
+10 questions
+Section 3 - Controllers, Scope and Modules
+Lecture 27: Module Materials and Code
+26 pages
+Lecture 28: Introduction
+02:46
+Lecture 29: AngularJS Architecture Patterns
+03:36
+Lecture 30: The Role of Controllers
+04:42
+Lecture 31: Creating a Controller
+06:33
+Lecture 32: The ng-controller Directive
+03:05
+Lecture 33: Hooking a View to a Controller
+01:15
+Lecture 34: Using "Controller As" Syntax
+02:18
+Lecture 35: The Role of Modules
+03:21
+Lecture 36: Creating a Module
+02:21
+Lecture 37: Adding a Controller to a Module
+07:04
+Lecture 38: Options for Adding a Controller into a Module
+05:24
+Lecture 39: Parameter Injection Techniques
+03:16
+Lecture 40: Summary
+01:00
+Quiz 3: Module 3 Quiz
+10 questions
+Section 4 - Routing
+Lecture 41: Module Materials and Code
+19 pages
+Lecture 42: Introduction
+02:16
+Lecture 43: Routing Overview
+03:18
+Lecture 44: Referencing the ngRoute Module
+01:07
+Lecture 45: Adding the ngRoute Script into an Application
+01:48
+Lecture 46: Configuring Routes
+04:50
+Lecture 47: Using $routeProvider to Configure Routes
+03:56
+Lecture 48: Using the ng-view Directive
+01:16
+Lecture 49: Adding ng-view to a Page
+01:33
+Lecture 50: Adding Another Route, View, and Controller
+09:23
+Lecture 51: Summary
+01:21
+Quiz 4: Module 4 Quiz
+10 questions
+Section 5 - Factories and Services
+Lecture 52: Module Materials and Code
+27 pages
+Lecture 53: Introduction
+02:05
+Lecture 54: Factory and Service Overview
+03:25
+Lecture 55: Creating a Factory
+06:12
+Lecture 56: Refactoring Code into a Factory
+03:51
+Lecture 57: Injecting a Factory into a Controller
+05:20
+Lecture 58: Creating a Service
+03:01
+Lecture 59: Refactoring Code into a Service
+01:42
+Lecture 60: Defining Application Values
+02:27
+Lecture 61: Defining Values and Constants
+03:49
+Lecture 62: Making Ajax Calls from a Factory/Service
+03:58
+Lecture 63: Creating a RESTful Service
+03:30
+Lecture 64: Using the $http Service
+02:29
+Lecture 65: Wiring Promises to Success and Error Callbacks
+03:41
+Lecture 66: Using the $log Service
+03:12
+Lecture 67: Summary
+00:58
+Quiz 5: Module 5 Quiz
+10 questions
+Section 6 - UI and Animation
+Lecture 68: Module Materials and Code
+19 pages
+Lecture 69: Introduction
+01:57
+Lecture 70: Enhancing the UI with Bootstrap
+02:54
+Lecture 71: Adding Bootstrap Classes
+06:17
+Lecture 72: Animation Overview
+03:45
+Lecture 73: Animation Examples and Resources
+03:58
+Lecture 74: The ngAnimate Module
+01:09
+Lecture 75: Adding the ngAnimate Script and Module
+01:41
+Lecture 76: Defining Animations in CSS
+05:19
+Lecture 77: Creating a Stylesheet with CSS Transitions
+04:33
+Lecture 78: Referencing Animation Classes
+01:51
+Lecture 79: Hooking Directives to Animations
+02:37
+Lecture 80: Summary
+01:35
+Quiz 6: Module 6 Quiz
+5 questions
+Section 7 - Bonus: Getting Started Building Custom Directives
+Lecture 81: About this Bonus Content
+1 slide
+Lecture 82: Module Materials and Code
+26 slides
+Lecture 83: Introduction
+02:18
+Lecture 84: The Role of Directives
+04:42
+Lecture 85: Creating a Hello World Directive
+04:09
+Lecture 86: Directive Categories
+06:08
+Lecture 87: Directive Building Blocks
+10:06
+Lecture 88: Summary
+01:22
+Section 8 - Bonus: Shared Scope, Isolate Scope, the link() Function in Custom Directives
+Lecture 89: About this Bonus Content
+1 slide
+Lecture 90: Module Materials and Code
+30 slides
+Lecture 91: Introduction
+01:36
+Lecture 92: Understanding Shared and Isolate Scope
+08:06
+Lecture 93: Shared and Isolate Scope Demo
+02:35
+Lecture 94: @ Local Scope Property
+04:15
+Lecture 95: @ Local Scope Property Demo
+05:36
+Lecture 96: = Local Scope Property
+02:46
+Lecture 97: = Local Scope Property Demo
+04:54
+Lecture 98: & Local Scope Property
+03:57
+Lecture 99: & Local Scope Property Demo
+04:09
+Lecture 100: The link() function
+07:31
+Lecture 101: link() Function Demo
+06:14
+Lecture 102: Summary
+01:33
+
+
+
+
+

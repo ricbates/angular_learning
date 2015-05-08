@@ -1,0 +1,24 @@
+{
+  "name": "angular_training",
+  "version": "1.0.0",
+  "description": "angular basics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricbates/angular_learning.git"
+  },
+  "keywords": [
+    "angular",
+    "node",
+    "learning"
+  ],
+  "author": "Rick Bates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricbates/angular_learning/issues"
+  },
+  "homepage": "https://github.com/ricbates/angular_learning"
+}
